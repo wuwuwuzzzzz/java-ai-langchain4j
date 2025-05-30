@@ -1,4 +1,4 @@
-package com.atguigu.java.ai.langchain4j.bean;
+package com.atguigu.java.ai.langchain4j.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
